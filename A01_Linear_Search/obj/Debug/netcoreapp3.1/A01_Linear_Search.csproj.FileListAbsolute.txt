@@ -1,0 +1,11 @@
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\bin\Debug\netcoreapp3.1\A01_Linear_Search.exe
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\bin\Debug\netcoreapp3.1\A01_Linear_Search.deps.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\bin\Debug\netcoreapp3.1\A01_Linear_Search.runtimeconfig.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\bin\Debug\netcoreapp3.1\A01_Linear_Search.runtimeconfig.dev.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\bin\Debug\netcoreapp3.1\A01_Linear_Search.dll
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\bin\Debug\netcoreapp3.1\A01_Linear_Search.pdb
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\obj\Debug\netcoreapp3.1\A01_Linear_Search.csprojAssemblyReference.cache
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\obj\Debug\netcoreapp3.1\A01_Linear_Search.AssemblyInfoInputs.cache
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\obj\Debug\netcoreapp3.1\A01_Linear_Search.AssemblyInfo.cs
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\obj\Debug\netcoreapp3.1\A01_Linear_Search.dll
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A01_Linear_Search\obj\Debug\netcoreapp3.1\A01_Linear_Search.pdb
