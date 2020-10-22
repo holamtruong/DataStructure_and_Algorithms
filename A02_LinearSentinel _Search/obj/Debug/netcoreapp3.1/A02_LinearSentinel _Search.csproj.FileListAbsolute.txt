@@ -1,0 +1,11 @@
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\bin\Debug\netcoreapp3.1\A02_LinearSentinel _Search.exe
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\bin\Debug\netcoreapp3.1\A02_LinearSentinel _Search.deps.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\bin\Debug\netcoreapp3.1\A02_LinearSentinel _Search.runtimeconfig.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\bin\Debug\netcoreapp3.1\A02_LinearSentinel _Search.runtimeconfig.dev.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\bin\Debug\netcoreapp3.1\A02_LinearSentinel _Search.dll
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\bin\Debug\netcoreapp3.1\A02_LinearSentinel _Search.pdb
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\obj\Debug\netcoreapp3.1\A02_LinearSentinel _Search.csprojAssemblyReference.cache
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\obj\Debug\netcoreapp3.1\A02_LinearSentinel _Search.AssemblyInfoInputs.cache
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\obj\Debug\netcoreapp3.1\A02_LinearSentinel _Search.AssemblyInfo.cs
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\obj\Debug\netcoreapp3.1\A02_LinearSentinel _Search.dll
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A02_LinearSentinel _Search\obj\Debug\netcoreapp3.1\A02_LinearSentinel _Search.pdb
