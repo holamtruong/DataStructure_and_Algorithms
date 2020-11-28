@@ -23,12 +23,16 @@ namespace A03_Binary_Search
                     if (A[mid] > x)
                     {
                         right = mid - 1;
+                       // Console.WriteLine("right: " + right.ToString());
                     }
                     else
                     {
                         left = mid + 1;
+                       // Console.WriteLine("left: " + left.ToString());
                     }
                 }
+                Console.WriteLine("right: " + right.ToString());
+                Console.WriteLine("left: " + left.ToString());
             }
            
 
@@ -37,8 +41,8 @@ namespace A03_Binary_Search
 
         static void Main(string[] args)
         {
-            int[] A = { 1, 2, 6, 26, 28, 37, 40 };
-            int x = 40;
+            int[] A = { 5, 11, 25, 28, 45, 78, 100, 120, 125 };
+            int x = 110;
 
             int pos = BinarySearch(A, x);
    

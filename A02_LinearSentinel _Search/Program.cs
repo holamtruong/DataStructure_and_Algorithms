@@ -25,11 +25,30 @@ namespace A02_LinearSentinel__Search
             }
         }
 
+        // Sentinel Linear Search (tìm kiếm tuần tự lính canh)
+        static int LinearSentinel_copy(int[] A, int x){
+            int n = A.Length;
+            int[] B = new int[n + 1];
+            Array.Copy(A, B, n);
+            B[n] = x;
+            int i = 0;
+            while (B[i] != x)
+                i++;
+            if (i == n)
+                return -1;
+            return i;
+        }
+
 
         static void Main(string[] args)
         {
-            int[] A = { 5, 9, 33, 17, 45, 6 };
-            int x = 17;
+            int[] A = new int[32];
+            for (int m = 1; m < 32; m++)
+            {
+                A[m] = m;
+            }
+
+            int x = 1;
 
             int pos = LinearSentinel(A, x);
 
@@ -40,6 +59,7 @@ namespace A02_LinearSentinel__Search
             }
             else
             {
+                Console.WriteLine("i:" + pos.ToString());
                 Console.WriteLine("Khong tim thay x");
             }
 

@@ -1,0 +1,10 @@
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\bin\Debug\netcoreapp3.1\A04_Selection_Sort.exe
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\bin\Debug\netcoreapp3.1\A04_Selection_Sort.deps.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\bin\Debug\netcoreapp3.1\A04_Selection_Sort.runtimeconfig.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\bin\Debug\netcoreapp3.1\A04_Selection_Sort.runtimeconfig.dev.json
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\bin\Debug\netcoreapp3.1\A04_Selection_Sort.dll
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\bin\Debug\netcoreapp3.1\A04_Selection_Sort.pdb
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\obj\Debug\netcoreapp3.1\A04_Selection_Sort.AssemblyInfoInputs.cache
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\obj\Debug\netcoreapp3.1\A04_Selection_Sort.AssemblyInfo.cs
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\obj\Debug\netcoreapp3.1\A04_Selection_Sort.dll
+C:\Users\holam\OneDrive\VB2_online\Cau truc Du Lieu va Giai Thuat\DataStructure_and_Algorithms_SampleCode\A04_Selection_Sort\obj\Debug\netcoreapp3.1\A04_Selection_Sort.pdb
